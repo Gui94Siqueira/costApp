@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Meu Primeiro Projeto",
+      "budget": "8000",
+      "category": {
+        "id": "3",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "aprender a programar",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "desing"
+    },
+    {
+      "id": 3,
+      "name": "desenvolvimento"
+    },
+    {
+      "id": 4,
+      "name": "planejamento"
+    }
+  ]
+}
